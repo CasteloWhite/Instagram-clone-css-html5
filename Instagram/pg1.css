@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+*{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}
+.titulo img{
+    width:30% ;
+    padding: 05px;
+    text-align: left;
+}
+.ico1 img{
+    width:25px;
+    position: fixed;
+    right: 100px;
+    top: 21px;
+}
+.ico2 img{
+    width:25px;
+    position: fixed;
+    right: 55px;
+    top: 21px;
+}
+.ico3 img{
+    width:27px;
+    position: fixed;
+    right: 10px;
+    top: 21px;
+}
+#linha{
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 470px;
+    border-top-style:solid;
+    border-bottom-style:solid;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-color: Gainsboro;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.user img{
+    width:35px;
+    position: fixed;
+    top: 100px;
+    left: 20px;
+}
+#nome{
+    position: fixed;
+    font-weight: 500;
+    top: 108px;
+    left: 70px;
+    text-decoration: none;
+    color: black;
+}
+.pontos img{
+    position: fixed;
+    width: 8px;
+    top: 107px;
+    right: 20px;
+}
+.placa img{
+    margin-left: -8px;
+   /* height: 224.85px;*/
+    width: 100%;
+    top: 145px;
+    position:fixed;
+}
+#ico2_1 img{
+    width:25px;
+    position: fixed;
+    top: 373px;
+    left: 10px;
+}
+.coment img{
+    width:20px;
+    position: fixed;
+    top: 374px;
+    left: 45px;
+}
+#ico3_1 img{
+    width:25px;
+    position: fixed;
+    top: 373px;
+    left: 77px;
+}
+#curt {
+    font-weight: 600;
+    position: fixed;
+    top: 380px;
+    left: 15px;
+}
+#neg {
+    position: fixed;
+    font-weight: 500;
+    top: 400px;
+    left: 15px; 
+}
+#coment {
+    position: fixed;
+    top: 400px;
+    left: 75px;
+}
+.band img{
+    position: absolute;
+    top: 375px;
+    right: 20px;
+    width:20px;
+}
+#ocu {
+    color: darkgray;
+    position: fixed;
+    top: 420px;
+    left: 15px;
+}
+.casa img{
+    width: 35px;
+    top: 550px;
+    left: 20px; 
+}
+.lupa img{
+    width: 35px;
+    top: 550px;
+    left: 100px;
+}
+.play img{
+    width: 30px;
+    top: 547px;
+    left: 180px;
+}
+.loja img{
+    width: 30px;
+    top: 547px;
+    left: 260px;
+}
+#user1 img{
+    width: 27px;
+    top: 547px;
+    left: 340px;
+}
+#bola {
+    width: 0.5px;
+    height: 0.5px;
+    left: 350px;
+    top: 579px;
+    position: fixed;
+    border-radius:100% ;
+    border-style: solid;
+    border-color:red ;
+    background-color: red;
+}

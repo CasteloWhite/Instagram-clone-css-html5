@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+*{
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}
+#all2 {
+    display: flex;
+    justify-content: space-between;
+}
+#cab {
+    text-align: center;
+
+}
+#engr img{
+    top: 16px;
+    right: 7px;
+    width: 25px;
+    position: fixed;
+}
+#barra {
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 20px;
+    border-top-style:solid;
+    border-top-width: 1px;
+    border-color: Gainsboro;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#user img{
+    width: 5em;
+    position: absolute;
+}
+#nu1 {
+    top: 4.5em;
+    left: 10.5em;
+    position: absolute;
+}
+#nu2 {
+    top: 4.5em;
+    left: 15.5em;
+    position: absolute; 
+}
+#nu3 {
+    top: 4.5em;
+    left: 20.5em;
+    position: absolute;
+}
+.cor_gray{
+    color: darkgray;
+}
+#dad1 {
+    top: 5.5em;
+    left: 9.5em;
+    position: absolute;
+}
+#dad2 {
+    top: 5.5em;
+    left: 14em;
+    position: absolute; 
+}
+#dad3 {
+    top: 5.5em;
+    left: 19em;
+    position: absolute;
+}
+#barra2 {
+position: fixed;
+top: 8em;
+left: 7.9em;
+border:solid;
+height: 20px;
+width: 11em;
+background-color: #EEEEEE;
+border-color: #EEEEEE;
+}
+#edit{
+    position: fixed;
+    top: 8.3em;
+    left: 13.8em;
+}
+#nome{
+    font-weight: 500;
+    position: absolute;
+    top: 11em;
+    left: 1.5em;
+}
+#bio{
+    position: absolute;
+    top: 13em;
+    left: 1.5em;
+}
+#corpo{
+    width: 100%;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+}
+#corpo svg{
+    position: relative;
+    height: 25px;
+    top: 10em;
+}
+#barra3{
+    position: fixed;
+    top: 15em;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 1px;
+    width: 100%;
+    border-top-style:solid;
+    border-top-width: 1px;
+    border-color: Gainsboro;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#imagem img{
+    position: absolute;
+    width: 9em;
+    top: 18em;
+}
+#barra4{
+    position: fixed;
+    bottom: 4em;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 1px;
+    width: 100%;
+    border-top-style:solid;
+    border-top-width: 1px;
+    border-color: Gainsboro;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.casa img{
+    position: fixed;
+    width: 35px;
+    bottom: 1.3em;
+    left: 20px; 
+}
+.lupa img{
+    position: fixed;
+    width: 35px;
+    bottom: 1.3em;
+    left: 100px;
+}
+.play img{
+    position: fixed;
+    width: 30px;
+    bottom: 1.3em;
+    left: 180px;
+}
+.loja img{
+    position: fixed;
+    width: 30px;
+    bottom: 1.3em;
+    left: 260px;
+}
+#user1 img{
+    position: fixed;
+    width: 27px;
+    bottom: 1.3em;
+    left: 340px;
+}
+#bola {
+    width: 0.5px;
+    height: 0.5px;
+    left: 350px;
+    bottom: 0.9em;
+    position: fixed;
+    border-radius:100% ;
+    border-style: solid;
+    border-color:red ;
+    background-color: red;
+}
